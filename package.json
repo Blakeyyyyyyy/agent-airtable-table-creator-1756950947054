@@ -1,0 +1,13 @@
+{
+  "name": "airtable-table-creator",
+  "version": "1.0.0",
+  "description": "Create and manage tables in Airtable",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
